@@ -66,6 +66,10 @@ canvas {
   transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
   z-index: 1000;
 }
+.custom-height {
+    height: 50px; /* Adjust the height value as needed */
+}
+
 .cursor-dot {
   width: 8px;
   height: 8px;
